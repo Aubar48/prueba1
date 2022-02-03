@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-color: #dcdcdc;
+  font: normal 14px Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+  font: bold 14px Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+}
+.buttons {
+  width: 5%;
+  height: 20px;
+  background: #017bab;
+  border: none;
+  color: white;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
